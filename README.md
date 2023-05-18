@@ -2,6 +2,9 @@
 Kubernetes security with k8s goat
 
 ```
+git clone git clone https://github.com/madhuakula/kubernetes-goat.git
+cd kubernetes-goat
+
 bash setup-kubernetes-goat.sh
 bash access-kubernetes-goat.sh
 ```
